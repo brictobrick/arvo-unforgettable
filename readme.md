@@ -2,7 +2,7 @@
 
 ## Purpose
 
-* a Wedding Invitation
+* A Wedding Invitation
 
 ## Contributor
 
