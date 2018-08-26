@@ -305,6 +305,7 @@
   padding-left: 0;
   margin-top: 0;
   margin-bottom: 0;
+  word-break: keep-all;
 }
 
 .markdown-body ol ol,
@@ -580,7 +581,11 @@
   font-weight: 600;
 }
 
-.markdown-body table th,
+.markdown-body table th {
+  padding: 6px 50px;
+  border: 1px solid #dfe2e5;
+}
+
 .markdown-body table td {
   padding: 6px 13px;
   border: 1px solid #dfe2e5;
@@ -710,4 +715,17 @@
 
 .markdown-body hr {
   border-bottom-color: #eee;
+}
+
+.timetable {
+  width: 100%;
+  margin-left: 2em;
+}
+
+.button {
+  margin-left: 2em;
+}
+
+.button kbd {
+  padding: 3px;
 }
