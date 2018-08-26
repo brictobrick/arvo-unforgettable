@@ -649,10 +649,9 @@
   padding: 20px 16px;
   overflow: auto;
   font-size: 85%;
-  line-height: 1.7;
-  background-color: #002a54;
-  color: #dbb45e;
-  border-radius: 3px;
+  line-height: 1.5;
+  background-color: #003C71;
+  color: #f6f8fa;
 }
 @media only screen and (max-width: 768px) {
   .markdown-body .highlight pre,
