@@ -1,14 +1,14 @@
 # Arvo Unforgettable
 
-## Purpose
+## What
 
 * A Wedding Invitation
 
-## Contributor
+## Who
 
 * Minchang Kim
 * Yerim Kim
 
-## Date
+## When
 
 * 2018-09-08
